@@ -14,7 +14,7 @@ This project explores:
 3. **ParallelChain** – Runs multiple chains simultaneously and combines their outputs.
 4. **ConditionalChain** – Branches logic dynamically based on conditions.
 
-For a structured summary, check out [**Notes Chains in Langchain.pdf**](./Notes%20Chains%20in%20Langchain.pdf).
+For a structured summary, check out [**Notes Chains in Langchain.pdf**](https://github.com/Harsh-Jindal-web/Langchain-Chains/blob/main/Notes%20Chains%20in%20LangChain.pdf).
 
 Video walkthrough available here:  
 - [📺 LangChain Chains (YouTube)](https://www.youtube.com/watch?v=5hjrPILA3-8&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=9)
